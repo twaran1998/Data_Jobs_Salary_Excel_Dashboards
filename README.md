@@ -114,10 +114,10 @@ IF(
 - [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
 - [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/Business_Analyst_Resume.pdf) 
 
----
+
 **Why I Am a Strong Fit for Data and Business Analyst Roles:**  
 This project demonstrates my ability to collect, clean, analyze, and visualize data to derive actionable business insights. My approach to problem-solving and storytelling through dashboards aligns perfectly with business analysis and data analytics roles.
 
 ## Conclusion
-
+---
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel Skills in the domain data analysis, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
