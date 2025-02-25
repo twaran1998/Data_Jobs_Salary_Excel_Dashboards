@@ -1,4 +1,4 @@
-# DATA_JOBS_SALARY_EXCEL_DATA_ANALYSIS
+# DATA_JOBS_SALARY_EXCEL_DASHBOARD
 
 ![Salary_Dashboard.png](/Resources/Images/Salary_Dashboard_Final_Dashboard.gif)
 
